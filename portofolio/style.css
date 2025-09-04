@@ -1,0 +1,30 @@
+.hero{
+    background: url("asset/img/bg2.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    color: rgb(79, 0, 79);
+    font-weight: bold;
+}
+
+
+nav {
+    background-color: rgb(254, 206, 255) ;
+}
+
+.project{
+    background-color: lavenderblush;
+}
+
+.profile {
+    background-color: plum;
+    border-style: dashed;
+}
+
+.footer{
+    background-color: thistle;
+}
+
+.skills{
+    background-color: rgb(173, 115, 134);
+}
